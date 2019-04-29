@@ -27,6 +27,11 @@ data = {
 Date: {{month}} {{year}}. Server: *{{server}}*
 ```
 
+#### Placeholders
+
+Placeholders must be enclosed with two curly brackets. Currently there are no
+blanks inside allowed. The only special char allowed is the underscore (_).
+
 ### Output
 
 ```markdown
